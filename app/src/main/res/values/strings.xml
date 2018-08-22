@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Prueba Arquitectura</string>
+    <string name="login_user">Escribe tu nombre de usuario</string>
+    <string name="login_pass">Escribe tu contraseña</string>
+    <string name="btn_Olvide">OLVIDE MIS DATOS</string>
+    <string name="login_inicio">INICIAR SESION</string>
+    <string name="login">Login</string>
+    <string name="galeria">Galeria</string>
+    <string name="sncakbar_notification">Debes recuperar tu cuenta</string>
+    <string name="snackbar_action">RECUPERAR</string>
+    <string name="toast_text">Se ha enviado la informacion de recuperacion de la cuenta a tu email</string>
+    <string name="login_toast">Debe ingresar ambos datos de usuario</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="gestor_de_disenos">Gestor de Diseños</string>
+    <string name="widgetPreview">Gestor de Diseños</string>
+    <string name="Img_description">imagen</string>
+</resources>
